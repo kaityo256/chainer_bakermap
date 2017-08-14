@@ -1,0 +1,6 @@
+*.model
+*.dat
+*.pyc
+a.out
+a.exe
+result
