@@ -29,5 +29,5 @@ $ ./a.out
 Check Baker
 Success/Fail:940/60
 Check Random
-Success/Fail 923/77
+Success/Fail:923/77
 ```

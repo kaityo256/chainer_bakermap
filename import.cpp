@@ -60,6 +60,6 @@ main(void) {
     rn += test_random(model);
   }
   std::cout << "Check Random" << std::endl;
-  std::cout << "Success/Fail " << rn << "/" << (TOTAL - rn) << std::endl;
+  std::cout << "Success/Fail:" << rn << "/" << (TOTAL - rn) << std::endl;
 }
 //------------------------------------------------------------------------
